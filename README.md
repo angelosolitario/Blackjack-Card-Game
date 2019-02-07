@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 # Blackjack-Card-Game
-=======
-#test
->>>>>>> Adding files
+A simple blackjack card game.
